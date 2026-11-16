@@ -1,10 +1,10 @@
 cask "smolder" do
-  version "0.1.9"
-  sha256 "10fd6dba196946c5401253d97d4f5f2485bc156f61fc2a03e24c9d5b5b873aac"
+  version "0.2.0"
+  sha256 "6a9cdb18ac8fa821ae0eb1c50a3a91a01e8cc76d2ae880682cbba293b099f448"
 
   url "https://github.com/penntiao/smolder/releases/download/v#{version}/Smolder-#{version}.zip"
   name "Smolder"
-  desc "Menu bar thermal watchdog for always-on, lid-closed Macs"
+  desc "Menu bar thermal watchdog for always-on, unattended Macs"
   homepage "https://github.com/penntiao/smolder"
 
   livecheck do
