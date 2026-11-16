@@ -1,6 +1,6 @@
 cask "smolder" do
-  version "0.1.8"
-  sha256 "092376cbe7456a3a34575d0862565a65908570dd1a1140cced906b5c9c666286"
+  version "0.1.9"
+  sha256 "10fd6dba196946c5401253d97d4f5f2485bc156f61fc2a03e24c9d5b5b873aac"
 
   url "https://github.com/penntiao/smolder/releases/download/v#{version}/Smolder-#{version}.zip"
   name "Smolder"
