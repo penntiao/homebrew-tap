@@ -1,9 +1,9 @@
 class SmolderUnlock < Formula
   desc "Bring a FileVault Mac back after a restart, from your phone (installer)"
   homepage "https://github.com/penntiao/smolder/tree/main/unlock"
-  url "https://github.com/penntiao/smolder/archive/refs/tags/unlock-v0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "0bff8d2456a5b8e5b62734f5afca259cf79a8c595924cac51dcc906805f61445"
+  url "https://github.com/penntiao/smolder/archive/refs/tags/unlock-v0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "4186ba471af0325400c8285d9b2891b68d87e43aaf540ff32523e58343ebe182"
   license "MIT"
 
   depends_on "python@3.13"
